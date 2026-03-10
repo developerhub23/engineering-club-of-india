@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "System updated successfully. Version 20.0 released! 🎉)",
     },
     {
       type: "fireworks",
